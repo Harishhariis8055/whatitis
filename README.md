@@ -19,7 +19,7 @@ A simple and intuitive Python command-line tool for exploring file system direct
 
 ### Download
 ```bash
-git clone https://github.com/yourusername/whatitis.git
+git clone https://github.com/Harishhariis8055/whatitis.git
 cd whatitis
 ```
 
